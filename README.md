@@ -1,5 +1,9 @@
 # Mini Blog WebApp
 
+https://danishkhaann.github.io/Mini-BlogWebApp/
+
+This Site won't work here properly To run this code clone this project in your local machine and follow the steps below
+
 This is a React.JS app
 
 A blogging WebApp created using React.JS
