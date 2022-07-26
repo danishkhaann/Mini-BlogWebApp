@@ -2,7 +2,7 @@
 
 https://danishkhaann.github.io/Mini-BlogWebApp/
 
-This Site won't work here properly To run this code clone this project in your local machine and follow the steps below
+This Site won't work here properly here, to run this project you have clone this repository in your local machine and follow the steps below
 
 This is a React.JS app
 
